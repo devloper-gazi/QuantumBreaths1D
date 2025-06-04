@@ -55,4 +55,6 @@ pip install numpy matplotlib
 ```bash
 python gpe_1d_periodic.py
 ```
-
+📚 References
+● Pethick & Smith, Bose–Einstein Condensation in Dilute Gases
+● Bao et al., Efficient and Spectrally Accurate Numerical Methods for Solving the GPE, SIAM J. Sci. Comput.
