@@ -42,7 +42,7 @@ Where:
 - Plots the final density profile \( |\psi(x)|^2 \)
 - Reveals nonlinear density modulation due to interaction and lattice effects
 
-![density_plot](example_output.png)
+![density_plot](https://i.ibb.co/LDYFcctg/example.png)
 
 ## ▶️ Usage
 
